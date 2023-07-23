@@ -1,0 +1,195 @@
+[
+    {
+      "college_name": "David University",
+      "college_img": "https://weare.guru/wp-content/uploads/2016/07/10caltech.jpg",
+      "admission_data": {
+        "admission_start_date": "2023-08-01",
+        "admission_end_date": "2023-09-30",
+        "eligibility_criteria": "Minimum GPA of 3.5",
+        "application_fee": 50,
+        "required_documents": ["Transcripts", "Letters of Recommendation", "Statement of Purpose"]
+      },
+      "events": [
+        "Annual Convocation",
+        "Tech Fest",
+        "Cultural Night",
+        "Sports Day"
+      ],
+      "sports": [
+        "Football",
+        "Basketball",
+        "Volleyball",
+        "Cricket"
+        
+      ]
+    },
+    {
+      "college_name": "Sample College",
+      "college_img": "https://weare.guru/wp-content/uploads/2016/07/9Princeton.jpg",
+      "admission_data": {
+        "admission_start_date": "2023-09-01",
+        "admission_end_date": "2023-10-15",
+        "eligibility_criteria": "Entrance Exam Score",
+        "application_fee": 40,
+        "required_documents": ["Entrance Exam Results", "High School Certificates"]
+      },
+      "events": [
+        "Science Fair",
+        "Literary Festival",
+        "Music Concert",
+        "Career Expo"
+      ],
+      "sports": [
+        "Tennis",
+        "Badminton",
+        "Table Tennis",
+        "Hockey",
+        "Athletics"
+      ]
+    },
+    {
+      "college_name": "University of Examples",
+      "college_img": "https://weare.guru/wp-content/uploads/2016/07/8Chicago.jpg",
+      "admission_data": {
+        "admission_start_date": "2023-07-15",
+        "admission_end_date": "2023-08-31",
+        "eligibility_criteria": "Interview and Portfolio Review",
+        "application_fee": 60,
+        "required_documents": ["Portfolio", "CV", "Interview Schedule"]
+      },
+      "events": [
+        "Freshers' Party",
+        "Alumni Meet",
+        "Fashion Show",
+        "Tech Symposium"
+      ],
+      "sports": [
+        "Soccer",
+        "Baseball",
+        "Rugby",
+        "Golf",
+        "Chess"
+      ]
+    },
+    {
+      "college_name": "Test Institute",
+      "college_img": "https://weare.guru/wp-content/uploads/2016/07/7Yale.jpg",
+      "admission_data": {
+        "admission_start_date": "2023-08-15",
+        "admission_end_date": "2023-09-15",
+        "eligibility_criteria": "Written Test and Group Discussion",
+        "application_fee": 35,
+        "required_documents": ["Written Test Scores", "Group Discussion Notes"]
+      },
+      "events": [
+        "Research Conference",
+        "Dance Competition",
+        "Coding Hackathon",
+        "Job Fair"
+      ],
+      "sports": [
+        "Karate",
+        "Taekwondo",
+        "Wrestling",
+        "Gymnastics",
+        "Cycling"
+      ]
+    },
+    {
+      "college_name": "ABC University",
+      "college_img": "https://weare.guru/wp-content/uploads/2016/07/6ICL.jpg",
+      "admission_data": {
+        "admission_start_date": "2023-09-15",
+        "admission_end_date": "2023-10-31",
+        "eligibility_criteria": "Minimum GPA of 3.0",
+        "application_fee": 30,
+        "required_documents": ["Transcripts", "Letters of Recommendation"]
+      },
+      "events": [
+        "Convocation Ceremony",
+        "Tech Expo",
+        "Cultural Fest",
+        "Sports Tournament"
+      ],
+      "sports": [
+        "Tennis",
+        "Cricket",
+        "Volleyball",
+        "Basketball",
+        "Swimming"
+      ]
+    },
+    {
+      "college_name": "XYZ College",
+      "college_img": "https://weare.guru/wp-content/uploads/2016/07/3Harvard.jpg",
+      "admission_data": {
+        "admission_start_date": "2023-08-01",
+        "admission_end_date": "2023-09-30",
+        "eligibility_criteria": "Entrance Exam Score",
+        "application_fee": 45,
+        "required_documents": ["Entrance Exam Results", "High School Certificates"]
+      },
+      "events": [
+        "Science Exhibition",
+        "Literary Week",
+        "Music Festival",
+        "Career Fair"
+      ],
+      "sports": [
+        "Football",
+        "Badminton",
+        "Table Tennis",
+        "Hockey",
+        "Athletics"
+      ]
+    },
+    {
+      "college_name": "Global University",
+      "college_img": "https://weare.guru/wp-content/uploads/2016/07/2Cambridge.jpg",
+      "admission_data": {
+        "admission_start_date": "2023-07-15",
+        "admission_end_date": "2023-08-31",
+        "eligibility_criteria": "Interview and Written Test",
+        "application_fee": 55,
+        "required_documents": ["CV", "Academic Records", "Interview Schedule"]
+      },
+      "events": [
+        "Orientation Day",
+        "Alumni Reunion",
+        "Fashion Show",
+        "Tech Summit"
+      ],
+      "sports": [
+        "Soccer",
+        "Baseball",
+        "Rugby",
+        "Golf",
+        "Chess"
+      ]
+    },
+    {
+      "college_name": "Tech Institute",
+      "college_img": "https://weare.guru/wp-content/uploads/2016/07/1MIT.jpg",
+      "admission_data": {
+        "admission_start_date": "2023-08-15",
+        "admission_end_date": "2023-09-15",
+        "eligibility_criteria": "Written Test and Interview",
+        "application_fee": 25,
+        "required_documents": ["Written Test Scores", "Interview Performance"]
+      },
+      "events": [
+        "Tech Symposium",
+        "Coding Competition",
+        "Job Fair",
+        "Startup Pitch"
+      ],
+      "sports": [
+        "Esports",
+        "Gaming",
+        "Table Tennis",
+        "Basketball",
+        "Chess"
+      ]
+    }
+  ]
+  
